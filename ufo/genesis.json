@@ -59,6 +59,13 @@
           "pub_key": null,
           "account_number": "0",
           "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "alien1097u8dure89xgadsln866888cndpp4z4fwt9hy",
+          "pub_key": null,
+          "account_number": "0",
+          "sequence": "0"
         }
       ]
     },
@@ -91,6 +98,15 @@
             {
               "denom": "token",
               "amount": "20000"
+            }
+          ]
+        },
+        {
+          "address": "alien1097u8dure89xgadsln866888cndpp4z4fwt9hy",
+          "coins": [
+            {
+              "denom": "ualien",
+              "amount": "10000000"
             }
           ]
         },
