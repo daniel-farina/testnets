@@ -55,7 +55,7 @@
         },
         {
           "@type": "/cosmos.auth.v1beta1.BaseAccount",
-          "address": "alien18438l28j6rzh0sjc9vzqwv8sev44tyvqatl72z",
+          "address": "alien15lqpyuzvs3hk84j8q5ycpdd0hl879vplvqlrmg",
           "pub_key": null,
           "account_number": "0",
           "sequence": "0"
@@ -110,7 +110,7 @@
               "amount": "100000000"
             },
             {
-              "denom": "alien",
+              "denom": "stake",
               "amount": "100000000"
             }
           ]
@@ -120,10 +120,6 @@
           "coins": [
             {
               "denom": "stake",
-              "amount": "100000000"
-            },
-            {
-              "denom": "alien",
               "amount": "100000000"
             }
           ]
